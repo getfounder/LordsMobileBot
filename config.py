@@ -1,0 +1,2 @@
+WINDOW_POS = (0, 0)
+WINDOW_SIZE = (1008, 581)
