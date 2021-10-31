@@ -1,6 +1,10 @@
 WINDOW_POS = (0, 0)
 WINDOW_SIZE = (1008, 581)
 
+DEFAULT_TIME_DURATION = 1
+DEFAULT_TIME_SLEEP = 0.6
+
+
 tmp= "images/templates" 
 scr = "images/screenshots"
 
@@ -18,4 +22,10 @@ paths = {
     "scr": {
         "hands": f"{scr}/hands.png",
     },
+}
+
+
+buttons = {
+    "help_everyone": (487, 532),
+    "cross_help": (937, 66),  
 }
